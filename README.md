@@ -9,7 +9,7 @@
 
 - 📫 How to reach me 📫 *Diego_sabas@outlook.com*
 
-- 🏅international certifications🏅 *eJPT🔸https://www.elearnsecurity.com/certification/verify?c=7a65fa84-c67a-409e-8a61-17c63127513f***
+- 🏅international certifications🏅 *eJPT🔸https://verified.elearnsecurity.com/certificates/7a65fa84-c67a-409e-8a61-17c63127513f
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
