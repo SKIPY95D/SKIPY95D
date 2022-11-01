@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/diegosabas95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diegosabas95" height="30" width="40" /></a>
-<a href="https://www.youtube.com/user/diegosabas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="diegosabas" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@SKIPY95D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="SKIPY95D" height="30" width="40" /></a>
 <a href="https://www.twitch.tv/skipy95d" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" alt="skipy95d" height="30" width="40" /></a>
 </p>
 
